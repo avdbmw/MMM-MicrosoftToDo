@@ -18,7 +18,7 @@ Module.register('MMM-MicrosoftToDo', {
     listWrapper.style.paddingLeft = '0'
     listWrapper.style.marginTop = '0'
     listWrapper.style.listStyleType = 'none'
-    listWrapper.classList.add('small')
+    listWrapper.classList.add('medium')
 
     // for each entry add styled list items
     if (this.list.length !== 0) {
