@@ -4,6 +4,8 @@
 [![Vulnerabilities](https://snyk.io/test/github/thobach/MMM-MicrosoftToDo/badge.svg?)](https://snyk.io/test/github/thobach/MMM-MicrosoftToDo)
 [![Build Status](https://travis-ci.com/thobach/MMM-MicrosoftToDo.svg?branch=master)](https://travis-ci.com/thobach/MMM-MicrosoftToDo)
 
+If by mere chance you stumble upon this repo, head over to https://github.com/thobach/MMM-MicrosoftToDo, that should be the most updated version of the plugin!
+
 # MMM-MicrosoftToDo
 MMM-MicrosoftToDo is a 3rd party module for [MagicMirror](https://github.com/MichMich/MagicMirror) that shows open tasks from task lists and allows to complete them as well. The tasks are retrieved from Microsoft To Do / Outlook.
 
